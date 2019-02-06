@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="treasure" size="0.100000 0.105960" />
+    <ImageTarget name="piece2" size="1.000000 1.000000" />
+    <ImageTarget name="thonk" size="1.000000 0.750000" />
+    <ImageTarget name="piece1" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
